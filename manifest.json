@@ -1,0 +1,11 @@
+{
+    "name": "Rule Search",
+    "version": "1.0.0",
+    "description": "easier way of searching for rules",
+    "manifest_version": 3,
+    "author": "Elijah G.",
+    "action":{
+        "default_popup": "index.html",
+        "default_title": "Rule Search"
+    }
+}
