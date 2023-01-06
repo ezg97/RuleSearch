@@ -16,3 +16,6 @@ input.addEventListener("keypress", function(event) {
     document.getElementById("searchRule").click();
   }
 });
+
+
+
